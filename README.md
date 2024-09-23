@@ -43,7 +43,7 @@
 
 ### 高阶
 
-![](https://github-profile-trophy.vercel.app/?username=你的GitHub用户名&theme=juicyfresh)
+![](https://github-profile-trophy.vercel.app/?username=HuangYuChuh&theme=juicyfresh)
 
 ## 💼 项目展示
 ### **[comfyui_LLM_party]**(https://github.com/heshengtao/comfyui_LLM_party)
