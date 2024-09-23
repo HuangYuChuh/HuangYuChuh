@@ -1,27 +1,15 @@
 ## Hi There👋，
-我是科林_CyrilPilgrim！
-欢迎大家来到我的github主页，我会在持续更新我在AIGC&设计&艺术哲学方向的内容......
+- 我是科林_CyrilPilgrim！
+- 欢迎大家来到我的github主页，我会在持续更新我在AIGC&设计&艺术哲学方向的内容......
 
 ## 关于我
-- 🥸 学习: ComfyUI, LLM& Flux Fine-tunning, Html, CSS, Multi-Agent, Python, Design, Art. 
-- 📫 邮箱： onepigge1999@gmail.com
+- 🥸 学习:  ComfyUI, LLM& Flux Fine-tunning, Html, CSS, Multi-Agent, Python, Design, Art. 
 - 🙌 爱好： 非虚构文学 | 独立电影 | 摇滚乐队 | 爵士乐 | 播客 
 
 ## 技能
-### ComfyUI
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI&logoColor=white)
+- 
 
-### 前端
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-
-### 工具
-[Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-[ComfyUI](https://github.com/comfyanonymous/ComfyUI))
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ## 🏆 ComfyUI工作流（comfyui_LLM_party）
 ### 基础工作流
