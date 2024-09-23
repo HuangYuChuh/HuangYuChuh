@@ -1,7 +1,7 @@
 ## Hi 👋，我是科林_CyrilPilgrim！
 
 ## 关于我
-- 🌱 我目前正在学习 ComfyUI, LLM& Flux Fine-tunning, Html, CSS, Multi-Agent, Python, Design, Art. 
+- 🌱 我目前正在学习 `ComfyUI, LLM& Flux Fine-tunning, Html, CSS, Multi-Agent, Python, Design, Art. `
 - 📫 你可以通过 [onepigge1999@gmail.com]联系我
 - ⚡ 兴趣爱好：文学 | 独立电影 | 摇滚乐队 | 爵士乐 | 羽毛球
 
