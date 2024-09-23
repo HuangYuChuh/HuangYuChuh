@@ -51,8 +51,8 @@
 
 
 ## 📫 联系我
-- 邮箱: onepigge1999@gmail.com
-- [小红书](https://www.xiaohongshu.com/user/profile/627deacf0000000021027c38)
+- 邮箱： onepigge1999@gmail.com
+- 小红书：[@科林皮格_CyrilPilgrim](https://www.xiaohongshu.com/user/profile/627deacf0000000021027c38)
 - Twitter: [@你的Twitter](https://twitter.com/你的用户名)
 
 ## 🤝 感谢
