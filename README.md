@@ -1,12 +1,11 @@
 ## Hi 👋，我是科林_CyrilPilgrim！
 
 ## 关于我
-- 🌱 我目前正在学习 **[ComfyUI, Html, CSS, Multi-Agent, Python]**
-- 👯 我希望能够与志同道合的开发者合作
-- 🤔 我在寻找 **[你想要的合作或机会]**
-- 💬 欢迎随时联系我，讨论 **[你感兴趣的话题]**
-- 📫 你可以通过 [邮箱](onepigge1999@gmail.com) 联系我
-- ⚡ 兴趣爱好：**[文学、独立电影、摇滚乐队、爵士乐、羽毛球]**
+- 🌱 我目前正在学习 **[ComfyUI, Html, CSS, Multi-Agent, Python, Design, Art]**
+- 👯 我希望能够与志同道合的**开发者**和**艺术家**合作
+- 💬 欢迎随时联系我，讨论 **[comfyui, LLM Agent, Design, Literature, Philosophy]**
+- 📫 你可以通过 [onepigge1999@gmail.com]联系我
+- ⚡ **兴趣爱好**：[文学 | 独立电影 | 摇滚乐队 | 爵士乐 | 羽毛球]
 
 ## 技能
 ### ComfyUI
