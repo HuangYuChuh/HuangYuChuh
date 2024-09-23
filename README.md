@@ -1,6 +1,6 @@
 ## Hi There👋，
 - 我是科林_CyrilPilgrim！
-- 欢迎来到我的主页，持续更新 `GenAI & 设计 & 艺术哲学` 方向的内容中......
+- 欢迎来到我的主页，持续更新 `GenAI & 设计 & 艺术哲学` 方向的内容......
 
 ## 关于我
 - 🥸 **学习**: ```ComfyUI, LLM& Flux Fine-tunning, Html, CSS, Multi-Agent, Python, Design, Art. ```
@@ -24,6 +24,8 @@
 ### 3.高阶工作流
 - [LLM_Party for FLUX Image2Image & Text2Image.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20FLUX%20Image2Image%20%26%20Text2Image.json)
 
+### 4.官方文档
+- [comfyui_LLM_party official document](https://dcnsxxvm4zeq.feishu.cn/wiki/IyUowXNj9iH0vzk68cpcLnZXnYf?fromScene=spaceOverview)
 ## 💼 项目展示
 ### [comfyui_LLM_party](https://github.com/heshengtao/comfyui_LLM_party)
 - comfyui_LLM_party 是一个致力于在ComfyUI的开源生态中打造一个功能强大的 LLM agent 生态，将LLM 与图像生成领域之间的Gap打通，同时将 ComfyUI 做成一个可万物互联的移动接口，零代码实现个人 AI Agent 的创造，门槛低，自由度强。
