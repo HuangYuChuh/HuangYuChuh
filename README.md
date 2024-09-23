@@ -24,15 +24,18 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ## 🏆 ComfyUI工作流（comfyui_LLM_party）
-### 基础
+### 基础工作流
 - [LLM_Party for API Models.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20API%20Models.json)
 - [LLM_Party for Local Models.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20Local%20Models.json)
 - 
 
-### 进阶
+### 进阶工作流
 - [LLM_Party for Omost.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20Omost.json)
-### 高阶
-
+- [LLM_Party for Omost（CN）.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20Omost%EF%BC%88CN%EF%BC%89.json)
+- [LLM_Party For Polished Prompt.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20For%20Polished%20Prompt.json)
+- 
+### 高阶工作流
+- [LLM_Party for FLUX Image2Image & Text2Image.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20FLUX%20Image2Image%20%26%20Text2Image.json)
 
 ## 💼 项目展示
 ### [comfyui_LLM_party](https://github.com/heshengtao/comfyui_LLM_party)
