@@ -1,11 +1,9 @@
 ## Hi 👋，我是科林_CyrilPilgrim！
 
 ## 关于我
-- 🌱 我目前正在学习 **[ComfyUI, Html, CSS, Multi-Agent, Python, Design, Art]**
-- 👯 我希望能够与志同道合的**开发者**和**艺术家**合作
-- 💬 欢迎随时联系我，讨论 **[comfyui, LLM Agent, Design, Literature, Philosophy]**
+- 🌱 我目前正在学习 ComfyUI, LLM& Flux Fine-tunning, Html, CSS, Multi-Agent, Python, Design, Art. 
 - 📫 你可以通过 [onepigge1999@gmail.com]联系我
-- ⚡ **兴趣爱好**：[文学 | 独立电影 | 摇滚乐队 | 爵士乐 | 羽毛球]
+- ⚡ 兴趣爱好：文学 | 独立电影 | 摇滚乐队 | 爵士乐 | 羽毛球
 
 ## 技能
 ### ComfyUI
@@ -37,7 +35,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=radical)
 
-## 🏆 我的成就
+## 🏆 ComfyUI工作流（comfyui_LLM_party）
+### 基础
+
+### 进阶
+
+### 高阶
+
 ![](https://github-profile-trophy.vercel.app/?username=你的GitHub用户名&theme=juicyfresh)
 
 ## 💼 项目展示
@@ -48,7 +52,7 @@
 
 ## 📫 联系我
 - 邮箱: onepigge1999@gmail.com
-- LinkedIn: 
+- 小红书：!(https://www.xiaohongshu.com/user/profile/627deacf0000000021027c38)
 - Twitter: [@你的Twitter](https://twitter.com/你的用户名)
 
 ## 🤝 感谢
