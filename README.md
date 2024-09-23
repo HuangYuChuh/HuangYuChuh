@@ -1,28 +1,33 @@
 ## Hi There👋，
 - 我是科林_CyrilPilgrim！
-- 欢迎大家来到我的github主页，我会在持续更新我在AIGC&设计&艺术哲学方向的内容......
+- 欢迎大家来到我的github主页，我会在持续更新 `GenAI & 设计 & 艺术哲学` 方向的内容......
 
 ## 关于我
-- 🥸 学习:  ComfyUI, LLM& Flux Fine-tunning, Html, CSS, Multi-Agent, Python, Design, Art. 
-- 🙌 爱好： 非虚构文学 | 独立电影 | 摇滚乐队 | 爵士乐 | 播客 
+- 🥸 **学习**: ComfyUI, LLM& Flux Fine-tunning, Html, CSS, Multi-Agent, Python, Design, Art. 
+- 🙌 **爱好**: 非虚构文学 | 独立电影 | 摇滚乐队 | 爵士乐 | 播客 
 
-## 技能
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI&logoColor=white)
+## 💻 技能
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+- [Python](https://www.python.org/)
+- [Pohotoshop](https://www.adobe.com/products/photoshop.html)
 - 
 
 
-## 🏆 ComfyUI工作流（comfyui_LLM_party）
-### 基础工作流
+
+
+
+## 🔋 ComfyUI工作流（comfyui_LLM_party）
+### 1.基础工作流
 - [LLM_Party for API Models.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20API%20Models.json)
 - [LLM_Party for Local Models.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20Local%20Models.json)
 - 
 
-### 进阶工作流
+### 2.进阶工作流
 - [LLM_Party for Omost.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20Omost.json)
 - [LLM_Party for Omost（CN）.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20Omost%EF%BC%88CN%EF%BC%89.json)
 - [LLM_Party For Polished Prompt.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20For%20Polished%20Prompt.json)
 - 
-### 高阶工作流
+### 3.高阶工作流
 - [LLM_Party for FLUX Image2Image & Text2Image.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20FLUX%20Image2Image%20%26%20Text2Image.json)
 
 ## 💼 项目展示
@@ -36,8 +41,7 @@
 - 即刻： [@科林皮格_CyrilPilgrim](https://okjk.co/UCxTwY)
 - 小红书：[@科林皮格_CyrilPilgrim](https://www.xiaohongshu.com/user/profile/627deacf0000000021027c38)
 
-## 🤝 感谢
-感谢您访问我的 GitHub 主页！欢迎提出建议或问题。
+
 
 
 
