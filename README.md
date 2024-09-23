@@ -1,5 +1,4 @@
-markdown
-# Hi 👋，我是科林_CyrilPilgrim！通用链路 COO & Co-Founder。
+## Hi 👋，我是科林_CyrilPilgrim！
 
 ## 关于我
 - 🌱 我目前正在学习 **[ComfyUI, Html, CSS, Multi-Agent, Python]**
