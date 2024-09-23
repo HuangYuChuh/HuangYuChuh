@@ -7,14 +7,7 @@
 - 🙌 **爱好**: 非虚构文学 | 独立电影 | 摇滚乐队 | 爵士乐 | 播客 
 
 ## 💻 技能
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-- [Python](https://www.python.org/)
-- [Pohotoshop](https://www.adobe.com/products/photoshop.html)
-- 
-
-
-
-
+![skill](https://github.com/user-attachments/assets/4c17988e-64a5-4a80-ba6e-9c6b5a2dd572)
 
 ## 🔋 ComfyUI工作流（comfyui_LLM_party）
 ### 1.基础工作流
