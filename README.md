@@ -30,10 +30,9 @@
 
 ### 高阶
 
-![](https://github-profile-trophy.vercel.app/?username=HuangYuChuh&theme=juicyfresh)
 
 ## 💼 项目展示
-### **[comfyui_LLM_party]**(https://github.com/heshengtao/comfyui_LLM_party)
+### ¡[comfyui_LLM_party](https://github.com/heshengtao/comfyui_LLM_party)
 - comfyui_LLM_party是一个致力于在ComfyUI的开源生态中打造一个功能强大的LLM agent生态，将LLM 与图像生成领域之间的Gap打通，同时将ComfyUI做成一个可万物互联的移动接口，零代码实现个人AI Agent的创造，门槛低，自由度强。
 - ComfyUI LLM Party，从最基础的 LLM 多工具调用、角色设定快速搭建自己的专属AI助手、到可以行业落地的词向量RAG、GraphRAG来本地化的管理行业内知识库；从单一的智能体流水线，到复杂的智能体与智能体辐射状交互模式、环形交互模式的构建;从个人用户需要的接入自己的社交APP(QQ、飞书、Discord)，到流媒体工作者需要的一站式LLM+TTS+ComfyUI工作流；从普通学生所需要的第一个LLM应用的简单上手起步，到科研工作者们常用的各类参数调试接口，模型适配。这一切，你都可以在ComfyUI LLM Party中找到答案。
 
