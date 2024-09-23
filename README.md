@@ -1,8 +1,8 @@
-```markdown
+markdown
 # Hi 👋，我是科林_CyrilPilgrim！通用链路 COO & Co-Founder。
 
 ## 关于我
-- 🌱 我目前正在学习 **[你正在学习的技术或领域]**
+- 🌱 我目前正在学习 **[ComfyUI, Html, CSS, Multi-Agent, Python]**
 - 👯 我希望能够与志同道合的开发者合作
 - 🤔 我在寻找 **[你想要的合作或机会]**
 - 💬 欢迎随时联系我，讨论 **[你感兴趣的话题]**
@@ -10,7 +10,7 @@
 - ⚡ 兴趣爱好：**[你的兴趣爱好，如编程、阅读、旅行等]**
 
 ## 技能
-### 编程语言
+### ComfyUI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -57,4 +57,4 @@
 感谢您访问我的 GitHub 主页！欢迎提出建议或问题。
 
 
-```
+
