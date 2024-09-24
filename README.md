@@ -23,6 +23,8 @@
 - 
 ### 3.高阶工作流
 - [LLM_Party for FLUX Image2Image & Text2Image.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20FLUX%20Image2Image%20%26%20Text2Image.json)
+- [LLM Party for FLUX 炉石传说抽卡.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM%20Party%20for%20FLUX%20%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4%E6%8A%BD%E5%8D%A1.json)
+- [LLM Party for FLUX提示词五合一（炉石&游戏王&塔罗牌&海报&漫画）一键生成.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM%20Party%20for%20FLUX%E6%8F%90%E7%A4%BA%E8%AF%8D%E4%BA%94%E5%90%88%E4%B8%80%EF%BC%88%E7%82%89%E7%9F%B3%26%E6%B8%B8%E6%88%8F%E7%8E%8B%26%E5%A1%94%E7%BD%97%E7%89%8C%26%E6%B5%B7%E6%8A%A5%26%E6%BC%AB%E7%94%BB%EF%BC%89%E4%B8%80%E9%94%AE%E7%94%9F%E6%88%90.json)
 - 
 ### 4.番外篇（mini party）工作流
 - 
