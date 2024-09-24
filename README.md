@@ -24,8 +24,10 @@
 ### 3.高阶工作流
 - [LLM_Party for FLUX Image2Image & Text2Image.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20FLUX%20Image2Image%20%26%20Text2Image.json)
 - 
+### 4.番外篇（mini party）工作流
+- 
 
-### 4.官方文档
+### 5.官方文档
 - [comfyui_LLM_party official document](https://dcnsxxvm4zeq.feishu.cn/wiki/IyUowXNj9iH0vzk68cpcLnZXnYf?fromScene=spaceOverview)
 ## 💼 项目展示
 ### [comfyui_LLM_party](https://github.com/heshengtao/comfyui_LLM_party)
