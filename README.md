@@ -26,8 +26,8 @@
 
 ### 3.高阶工作流
 - [LLM_Party for FLUX 炉石传说抽卡.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM%20Party%20for%20FLUX%20%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4%E6%8A%BD%E5%8D%A1.json)
-- [LLM_Party for 汉语新解（中译中ComfyUI版）.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM%20party%20for%20%E6%B1%89%E8%AF%AD%E6%96%B0%E8%A7%A3%EF%BC%88%E4%B8%AD%E8%AF%91%E4%B8%ADComfyUI%E7%89%88%EF%BC%89.json)
 - [LLM Party——提示词工程复现o1草莓模型.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM%20Party%E2%80%94%E2%80%94%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B%E5%A4%8D%E7%8E%B0o1%E8%8D%89%E8%8E%93%E6%A8%A1%E5%9E%8B.json)
+- [LLM_Party for 汉语新解（中译中ComfyUI版）.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM%20party%20for%20%E6%B1%89%E8%AF%AD%E6%96%B0%E8%A7%A3%EF%BC%88%E4%B8%AD%E8%AF%91%E4%B8%ADComfyUI%E7%89%88%EF%BC%89.json)
 - [LLM_Party for FLUX Image2Image & Text2Image.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20FLUX%20Image2Image%20%26%20Text2Image.json)
 - [LLM_Party for FLUX提示词五合一（炉石&游戏王&塔罗牌&海报&漫画）一键生成.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM%20Party%20for%20FLUX%E6%8F%90%E7%A4%BA%E8%AF%8D%E4%BA%94%E5%90%88%E4%B8%80%EF%BC%88%E7%82%89%E7%9F%B3%26%E6%B8%B8%E6%88%8F%E7%8E%8B%26%E5%A1%94%E7%BD%97%E7%89%8C%26%E6%B5%B7%E6%8A%A5%26%E6%BC%AB%E7%94%BB%EF%BC%89%E4%B8%80%E9%94%AE%E7%94%9F%E6%88%90.json)
 
