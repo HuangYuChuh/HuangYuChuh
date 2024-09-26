@@ -14,6 +14,7 @@
 ### 1.基础工作流
 - [LLM_Party for API Models.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20API%20Models.json)
 - [LLM_Party for Local Models.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20Local%20Models.json)
+- [LLM_Party for Llama3.2 -Vision（带记忆）.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20Llama3.2%20-Vision%EF%BC%88%E5%B8%A6%E8%AE%B0%E5%BF%86%EF%BC%89.json) 
 - [LLM_Party for GraphRAG 知识图谱.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM%20Party%20for%20GraphRAG%20%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1.json)
 - [LLM_Party for Multi-RAG 多知识库分别调用.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM%20Party%20for%20Multi-RAG%20%E5%A4%9A%E7%9F%A5%E8%AF%86%E5%BA%93%E5%88%86%E5%88%AB%E8%B0%83%E7%94%A8.json)
 - [LLM_Party for Google Search （ComfyUI联网搜索功能）.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM%20Party%20for%20Google%20Search%20%EF%BC%88ComfyUI%E8%81%94%E7%BD%91%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD%EF%BC%89.json)
