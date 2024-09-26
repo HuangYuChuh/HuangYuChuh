@@ -32,6 +32,7 @@
 - [LLM_Party for FLUX提示词五合一（炉石&游戏王&塔罗牌&海报&漫画）一键生成.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM%20Party%20for%20FLUX%E6%8F%90%E7%A4%BA%E8%AF%8D%E4%BA%94%E5%90%88%E4%B8%80%EF%BC%88%E7%82%89%E7%9F%B3%26%E6%B8%B8%E6%88%8F%E7%8E%8B%26%E5%A1%94%E7%BD%97%E7%89%8C%26%E6%B5%B7%E6%8A%A5%26%E6%BC%AB%E7%94%BB%EF%BC%89%E4%B8%80%E9%94%AE%E7%94%9F%E6%88%90.json)
 
 ### 4.番外篇（mini party）工作流
+- [Mini Party for Flux自动打标.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/Mini%20Party%20for%20Flux%E8%87%AA%E5%8A%A8%E6%89%93%E6%A0%87.json)
 - [Mini Party for Flux 一键式文生图&图生图.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/Mini%20Party%20for%20Flux%20%E4%B8%80%E9%94%AE%E5%BC%8F%E6%96%87%E7%94%9F%E5%9B%BE%26%E5%9B%BE%E7%94%9F%E5%9B%BE.json)
 
 ### 5.官方文档
