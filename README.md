@@ -21,9 +21,10 @@
 - [LLM_Party for System Prompt-Persona（翻译+人格+flux提示词+分类器+自定义面具）.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20System%20Prompt-Persona%EF%BC%88%E7%BF%BB%E8%AF%91%2B%E4%BA%BA%E6%A0%BC%2Bflux%E6%8F%90%E7%A4%BA%E8%AF%8D%2B%E5%88%86%E7%B1%BB%E5%99%A8%2B%E8%87%AA%E5%AE%9A%E4%B9%89%E9%9D%A2%E5%85%B7%EF%BC%89.json)
 
 ### 2.进阶工作流
-- [LLM_Party for Omost.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20Omost.json)
-- [LLM_Party for Omost（CN）.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20Omost%EF%BC%88CN%EF%BC%89.json)
-- [LLM_Party For Polished Prompt.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20For%20Polished%20Prompt.json)
+- [LLM Party for Omost.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20Omost.json)
+- [LLM Party for Omost（CN）.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20Omost%EF%BC%88CN%EF%BC%89.json)
+- [LLM Party For Polished Prompt.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20For%20Polished%20Prompt.json)
+- [LLM Party for In-Context-LoRA 自动打标](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM%20Party%20for%20In-Context-LoRA%20%E8%87%AA%E5%8A%A8%E6%89%93%E6%A0%87.json)
 
 ### 3.高阶工作流
 - [LLM_Party for FLUX 炉石传说抽卡.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM%20Party%20for%20FLUX%20%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4%E6%8A%BD%E5%8D%A1.json)
