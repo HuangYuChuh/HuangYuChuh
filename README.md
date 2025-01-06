@@ -10,8 +10,10 @@
 ## 💻 技能
 ![skill](https://github.com/user-attachments/assets/4c17988e-64a5-4a80-ba6e-9c6b5a2dd572)
 
-## 🟣 模型开源
+## 🟣 开源模型
 - [3D 数字人形象（DigitalHuman）](https://www.modelscope.cn/models/CyrilPilgrim/CyrilPilgrim-DigitalHuman_v1/summary)
+
+
 ## 🔋 ComfyUI工作流（comfyui_LLM_party）
 ### 1.基础工作流
 - [LLM_Party for API Models.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/LLM_Party%20for%20API%20Models.json)
