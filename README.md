@@ -46,7 +46,7 @@
 - [Mini Party for SD提示词生成器.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/Mini%20Party%20for%20SD%E6%8F%90%E7%A4%BA%E8%AF%8D%E7%94%9F%E6%88%90%E5%99%A8.json)
 - [Mini Party for Flux 一键式文生图&图生图.json](https://github.com/heshengtao/comfyui_LLM_party/blob/main/workflow_tutorial/Mini%20Party%20for%20Flux%20%E4%B8%80%E9%94%AE%E5%BC%8F%E6%96%87%E7%94%9F%E5%9B%BE%26%E5%9B%BE%E7%94%9F%E5%9B%BE.json)
 
-### .官方文档
+### 5.官方文档
 - [comfyui_LLM_party official document](https://dcnsxxvm4zeq.feishu.cn/wiki/IyUowXNj9iH0vzk68cpcLnZXnYf?fromScene=spaceOverview)
 ## 💼 项目展示
 ### [comfyui_LLM_party](https://github.com/heshengtao/comfyui_LLM_party)
