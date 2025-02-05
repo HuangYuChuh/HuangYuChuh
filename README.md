@@ -3,7 +3,7 @@
 - 欢迎来到我的主页，持续更新 `GenAI & 设计 & 艺术哲学` 方向的内容......
 
 ## 关于我
-- 🥸 **学习**: ```ComfyUI, LLM& Flux Fine-tunning, Html, CSS, Multi-Agent, Python, Design, Art. ```
+- 🥸 **学习**: ```ComfyUI, LLM & Flux Fine-tunning, Html, CSS, Multi-Agent, Python, Design, Art. ```
 - 🙌 **爱好**: ```非虚构文学 | 独立电影 | 摇滚乐队 | 爵士乐 | 播客 ```
 
 ## 💻 技能
