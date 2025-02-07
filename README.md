@@ -16,8 +16,8 @@
 
 ## 📫 联系我
 - 邮箱： onepigge1999@gmail.com
-- 即刻： [@科林皮格_CyrilPilgrim](https://okjk.co/UCxTwY)
-- 小红书：[@科林皮格_CyrilPilgrim](https://www.xiaohongshu.com/user/profile/627deacf0000000021027c38)
+- 即刻： [@科林_CyrilPilgrim](https://okjk.co/UCxTwY)
+- 小红书：[@科林_CyrilPilgrim](https://www.xiaohongshu.com/user/profile/627deacf0000000021027c38)
 
 
 
