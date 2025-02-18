@@ -11,6 +11,7 @@
 
 ## 🟣 开源模型
 - [3D 数字人形象（DigitalHuman）](https://www.modelscope.cn/models/CyrilPilgrim/CyrilPilgrim-DigitalHuman_v1/summary)
+- [CyrilPilgrim/CyrilPilgrim_FrostedFantasy_Style](https://www.modelscope.cn/models/CyrilPilgrim/CyrilPilgrim_FrostedFantasy_Style)
 
 
 
