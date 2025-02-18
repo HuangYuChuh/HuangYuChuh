@@ -10,8 +10,8 @@
 ![skill](https://github.com/user-attachments/assets/4c17988e-64a5-4a80-ba6e-9c6b5a2dd572)
 
 ## 🟣 开源模型
-- [3D 数字人形象（DigitalHuman）](https://www.modelscope.cn/models/CyrilPilgrim/CyrilPilgrim-DigitalHuman_v1/summary)
-- [CyrilPilgrim/CyrilPilgrim_FrostedFantasy_Style](https://www.modelscope.cn/models/CyrilPilgrim/CyrilPilgrim_FrostedFantasy_Style)
+- [【CyrilPilgrim】DigitalHuman 3D 数字人形象](https://www.modelscope.cn/models/CyrilPilgrim/CyrilPilgrim-DigitalHuman_v1/summary)
+- [【CyrilPilgrim】FrostedFantasy_Style 梦幻系列：磨砂绮绘画风](https://www.modelscope.cn/models/CyrilPilgrim/CyrilPilgrim_FrostedFantasy_Style)
 
 
 
