@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=100&lines=Hi+there+👋;I'm+科林_CyrilPilgrim;专注于+GenAI+%26+设计+%26+艺术哲学" alt="Typing SVG" />
 </div>
 
+<br/>
+
 <div align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -26,13 +28,17 @@
   </a>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HuangYuChuh&show_icons=true&theme=radical&line_height=40" />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HuangYuChuh&theme=radical&langs_count=5" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HuangYuChuh&theme=radical&row=1" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HuangYuChuh&theme=radical&row=1&margin-w=15" alt="trophy" />
 </div>
 
 <br/>
@@ -62,18 +68,18 @@
   
   <table>
     <tr>
-      <td>
+      <td width="50%" align="center">
         <h3>🥸 学习领域</h3>
-        <ul>
+        <ul style="list-style-type: none; padding: 0;">
           <li><b>AI</b>: ComfyUI, LLM & Flux Fine-tunning</li>
           <li><b>开发</b>: Html, CSS, Python</li>
           <li><b>设计</b>: Design, Art</li>
           <li><b>其他</b>: Multi-Agent</li>
         </ul>
       </td>
-      <td>
+      <td width="50%" align="center">
         <h3>🙌 个人爱好</h3>
-        <ul>
+        <ul style="list-style-type: none; padding: 0;">
           <li>📚 非虚构文学</li>
           <li>🎬 独立电影</li>
           <li>🎸 摇滚乐队</li>
@@ -89,40 +95,45 @@
 
 <div align="center">
   <h2>🟣 开源项目</h2>
-  <a href="https://github.com/HuangYuChuh/comfyui-llm-party">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuangYuChuh&repo=comfyui-llm-party&theme=radical" />
-  </a>
-  <a href="https://github.com/HuangYuChuh/ComfyUI-DeepSeek-Toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuangYuChuh&repo=ComfyUI-DeepSeek-Toolkit&theme=radical" />
-  </a>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <a href="https://github.com/HuangYuChuh/comfyui-llm-party">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuangYuChuh&repo=comfyui-llm-party&theme=radical" />
+    </a>
+    <a href="https://github.com/HuangYuChuh/ComfyUI-DeepSeek-Toolkit">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuangYuChuh&repo=ComfyUI-DeepSeek-Toolkit&theme=radical" />
+    </a>
+  </div>
 </div>
 
 <br/>
 
 <div align="center">
   <h2>🟣 开源模型</h2>
-  <a href="https://www.modelscope.cn/models/CyrilPilgrim/CyrilPilgrim-DigitalHuman_v1/summary">
-    <img src="https://img.shields.io/badge/【CyrilPilgrim】DigitalHuman_3D_数字人形象-ModelScope-blue?style=for-the-badge" alt="DigitalHuman" />
-  </a>
-  <br/><br/>
-  <a href="https://www.modelscope.cn/models/CyrilPilgrim/CyrilPilgrim_FrostedFantasy_Style">
-    <img src="https://img.shields.io/badge/【CyrilPilgrim】FrostedFantasy_Style_梦幻系列-ModelScope-blue?style=for-the-badge" alt="FrostedFantasy" />
-  </a>
+  <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
+    <a href="https://www.modelscope.cn/models/CyrilPilgrim/CyrilPilgrim-DigitalHuman_v1/summary">
+      <img src="https://img.shields.io/badge/【CyrilPilgrim】DigitalHuman_3D_数字人形象-ModelScope-blue?style=for-the-badge" alt="DigitalHuman" />
+    </a>
+    <a href="https://www.modelscope.cn/models/CyrilPilgrim/CyrilPilgrim_FrostedFantasy_Style">
+      <img src="https://img.shields.io/badge/【CyrilPilgrim】FrostedFantasy_Style_梦幻系列-ModelScope-blue?style=for-the-badge" alt="FrostedFantasy" />
+    </a>
+  </div>
 </div>
 
 <br/>
 
 <div align="center">
   <h2>📫 联系我</h2>
-  <a href="mailto:onepigge1999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-onepigge1999@gmail.com-red?style=for-the-badge" alt="Email" />
-  </a>
-  <a href="https://okjk.co/UCxTwY">
-    <img src="https://img.shields.io/badge/即刻-@科林_CyrilPilgrim-green?style=for-the-badge" alt="即刻" />
-  </a>
-  <a href="https://www.xiaohongshu.com/user/profile/627deacf0000000021027c38">
-    <img src="https://img.shields.io/badge/小红书-@科林_CyrilPilgrim-orange?style=for-the-badge" alt="小红书" />
-  </a>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="mailto:onepigge1999@gmail.com">
+      <img src="https://img.shields.io/badge/Email-onepigge1999@gmail.com-red?style=for-the-badge" alt="Email" />
+    </a>
+    <a href="https://okjk.co/UCxTwY">
+      <img src="https://img.shields.io/badge/即刻-@科林_CyrilPilgrim-green?style=for-the-badge" alt="即刻" />
+    </a>
+    <a href="https://www.xiaohongshu.com/user/profile/627deacf0000000021027c38">
+      <img src="https://img.shields.io/badge/小红书-@科林_CyrilPilgrim-orange?style=for-the-badge" alt="小红书" />
+    </a>
+  </div>
 </div>
 
 <br/>
