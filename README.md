@@ -1,4 +1,4 @@
-### Hey there, I'm CyrilPilgrim 👋
+### Hey there, I'm Kelin 👋
 
 #### Indie AI Creator — I love building things that didn't exist before
 
