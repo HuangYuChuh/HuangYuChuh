@@ -10,3 +10,9 @@ Dual-track Champion & Runner-up at **AdventureX 2026** with **MyWear**;<br>
 - 💅 Projects: [ComfyUI Skills](https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw), [comfyui-llm-party](https://github.com/HuangYuChuh/comfyui-llm-party), [ComfyUI-DeepSeek-Toolkit](https://github.com/HuangYuChuh/ComfyUI-DeepSeek-Toolkit)
 - ✨ Models on ModelScope: [DigitalHuman 3D](https://www.modelscope.cn/models/CyrilPilgrim/CyrilPilgrim-DigitalHuman_v1/summary), [FrostedFantasy Style](https://www.modelscope.cn/models/CyrilPilgrim/CyrilPilgrim_FrostedFantasy_Style)
 - 💬 `ping` me about **ComfyUI**, **diffusion models**, **AI tooling**, **creative tech**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HuangYuChuh/HuangYuChuh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HuangYuChuh/HuangYuChuh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HuangYuChuh/HuangYuChuh/output/pacman-contribution-graph.svg">
+</picture>
