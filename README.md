@@ -11,6 +11,8 @@ Dual-track Champion & Runner-up at **AdventureX 2026** with **MyWear**;<br>
 - ✨ Models on ModelScope: [DigitalHuman 3D](https://www.modelscope.cn/models/CyrilPilgrim/CyrilPilgrim-DigitalHuman_v1/summary), [FrostedFantasy Style](https://www.modelscope.cn/models/CyrilPilgrim/CyrilPilgrim_FrostedFantasy_Style)
 - 💬 `ping` me about **ComfyUI**, **diffusion models**, **AI tooling**, **creative tech**
 
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HuangYuChuh/HuangYuChuh/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HuangYuChuh/HuangYuChuh/output/pacman-contribution-graph.svg">
