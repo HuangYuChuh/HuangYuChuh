@@ -1,29 +1,12 @@
-### Hi, I'm 科林 (CyrilPilgrim)
+### Hey there, I'm CyrilPilgrim 👋
 
-GenAI / Design / Art & Philosophy
+#### Indie AI Creator — I love building things that didn't exist before
 
----
+Building tools for the [ComfyUI](https://github.com/comfyanonymous/ComfyUI) ecosystem & exploring Diffusion models;<br>
+Dual-track Champion & Runner-up at **AdventureX 2026** with **MyWear**;<br>
 
-#### Now
-
-- Building LLM & ComfyUI tools
-- Exploring Multi-Agent systems
-- Learning frontend (React, Vite)
-
-#### Projects
-
-- [comfyui-llm-party](https://github.com/HuangYuChuh/comfyui-llm-party) — LLM nodes for ComfyUI
-- [ComfyUI-DeepSeek-Toolkit](https://github.com/HuangYuChuh/ComfyUI-DeepSeek-Toolkit) — DeepSeek integration for ComfyUI
-
-#### Models
-
-- [DigitalHuman 3D](https://www.modelscope.cn/models/CyrilPilgrim/CyrilPilgrim-DigitalHuman_v1/summary) — 数字人形象
-- [FrostedFantasy Style](https://www.modelscope.cn/models/CyrilPilgrim/CyrilPilgrim_FrostedFantasy_Style) — 梦幻风格 LoRA
-
-#### Interests
-
-非虚构文学 · 独立电影 · 摇滚 · 爵士 · 播客
-
----
-
-<sub>[Email](mailto:onepigge1999@gmail.com) · [即刻](https://okjk.co/UCxTwY) · [小红书](https://www.xiaohongshu.com/user/profile/627deacf0000000021027c38)</sub>
+- ⚙️ I use daily: `Python`, `ComfyUI`, `Diffusion Models`, `LLMs`, `React`
+- 🌍 I'm mostly active within the **ComfyUI & Diffusion** open-source community
+- 💅 Projects: [ComfyUI Skills](https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw), [comfyui-llm-party](https://github.com/HuangYuChuh/comfyui-llm-party), [ComfyUI-DeepSeek-Toolkit](https://github.com/HuangYuChuh/ComfyUI-DeepSeek-Toolkit)
+- ✨ Models on ModelScope: [DigitalHuman 3D](https://www.modelscope.cn/models/CyrilPilgrim/CyrilPilgrim-DigitalHuman_v1/summary), [FrostedFantasy Style](https://www.modelscope.cn/models/CyrilPilgrim/CyrilPilgrim_FrostedFantasy_Style)
+- 💬 `ping` me about **ComfyUI**, **diffusion models**, **AI tooling**, **creative tech**
