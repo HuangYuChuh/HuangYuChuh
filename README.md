@@ -1,6 +1,6 @@
 ### Hey there, I'm Kelin 👋
 
-#### Indie AI Creator — I love building things that didn't exist before
+#### Indie AI Builder — I love building things that didn't exist before
 
 Building tools for the [ComfyUI](https://github.com/comfyanonymous/ComfyUI) ecosystem & exploring Diffusion models;<br>
 Dual-track Champion & Runner-up at **AdventureX 2026** with **MyWear**;<br>
